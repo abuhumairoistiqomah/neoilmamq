@@ -1,0 +1,8 @@
+{
+  "name": "Neo ILMA - MQ Version",
+  "description": "Dashboard bank soal matematika SD (1 MQ - 6 MQ) untuk mempermudah akses worksheets interaktif, modul/bahan ajar, dan kuis digital",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
